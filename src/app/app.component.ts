@@ -8,6 +8,7 @@ import { Component } from '@angular/core';
 export class AppComponent {
   title = 'ng-app';
   constructor() {
-    console.log('Hello World')
+    console.log('adding this comment to check the husky commands');
+    
   }
 }
